@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /girl
+#cupSize: B
+#age: 18
+#height: 166
+#content: "cupSize:${cupSize},age:${age},height:${height}"
+
+girl:
+  cupSize: AA
+  age: 18
+  height: 166
